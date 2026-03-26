@@ -1,4 +1,7 @@
 **Student Performance Analysis Using Data Science (250 Students Dataset)**
+
+
+
 **1.Overview**
 
 In today’s education system, understanding student performance is essential for improving academic outcomes and providing personalized support. This project, titled “Student Performance Analysis”, focuses on analyzing the academic data of 250 students using data science techniques.
