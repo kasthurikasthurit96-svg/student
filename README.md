@@ -78,23 +78,7 @@ EDA is performed to understand the structure and relationships within the datase
 *Slight variations exist across departments
 *EDA provides a deeper understanding of the dataset and guides model building.
 
-**7. Machine Learning Model**
-
-A machine learning model is developed to predict student performance based on input features.
-
-✔️ Model Selection:
-Linear Regression (for simplicity and interpretability)
-Random Forest (for improved accuracy)
-✔️ Target Variable:
-Total Marks or Average Marks
-✔️ Model Evaluation Metrics:
-Mean Squared Error (MSE)
-Root Mean Squared Error (RMSE)
-R-squared Score (R²)
-
-👉 The model is trained and tested to ensure reliable predictions.
-
-**8. Data Visualization**
+**7. Data Visualization**
 
 Visualization techniques are used to present insights clearly and effectively.
 
@@ -106,7 +90,7 @@ Visualization techniques are used to present insights clearly and effectively.
 
 👉 Visualization enhances understanding and communication of results.
 
-**9. Tools and Technologies Used**
+**8. Tools and Technologies Used**
 
 The project is implemented using the following tools and libraries:
 
@@ -117,7 +101,7 @@ Matplotlib – Basic data visualization
 Seaborn – Advanced visualization
 Scikit-learn – Machine learning algorithms
 Faker – Synthetic data generation
-**10. Results and Findings**
+**9. Results and Findings**
 
 The analysis and model implementation led to the following conclusions:
 
@@ -128,7 +112,7 @@ The machine learning model provides accurate and reliable predictions
 
 👉 These findings can help improve academic strategies.
 
-**11. Pipeline Workflow**
+**10. Pipeline Workflow**
 
 The project follows a structured pipeline:
 
@@ -140,7 +124,7 @@ Exploratory Data Analysis
 Model Training
 Model Evaluation
 Prediction Generation
-**12. Generating Predictions**
+**11. Generating Predictions**
 
 The trained model can be used to predict student performance:
 
@@ -150,7 +134,7 @@ Output is predicted performance score
 
 👉 This helps identify students who may need academic support.
 
-**13. Future Enhancements**
+**12. Future Enhancements**
 
 The project can be improved in several ways:
 
@@ -159,7 +143,7 @@ Apply advanced algorithms like XGBoost or Neural Networks
 Include additional features such as study hours and extracurricular activities
 Develop a web-based application
 Integrate dashboards using Power BI or Tableau
-**14. Applications**
+**13. Applications**
 
 This project has practical applications in education:
 
@@ -167,21 +151,54 @@ Monitoring student progress
 Identifying weak students
 Supporting teachers in decision-making
 Enhancing academic performance strategies
-**15. Limitations**
+**14. Limitations**
 Dataset is synthetic and may not reflect real-world complexity
 Limited number of features
 Small dataset size (250 students)
-**16. Author Information**
+
+**OUTPUT SCREENSHOTS**
+
+<img width="843" height="587" alt="Screenshot 2026-03-27 100029" src="https://github.com/user-attachments/assets/2018e402-b11b-4889-8d10-db682929d8f3" />
+
+<img width="665" height="575" alt="image" src="https://github.com/user-attachments/assets/0d50b270-5a9b-4b00-b473-abd9f1ba20dc" />
+
+<img width="682" height="587" alt="image" src="https://github.com/user-attachments/assets/cd718558-2367-4a39-a1c0-9765d65466eb" />
+
+<img width="809" height="582" alt="image" src="https://github.com/user-attachments/assets/c4ed8911-3323-4f5e-b1f7-df2ed77552aa" />
+
+<img width="811" height="578" alt="image" src="https://github.com/user-attachments/assets/9f68f9ab-dbf5-4ee6-ac97-2ecdffb2c3c1" />
+
+<img width="842" height="570" alt="image" src="https://github.com/user-attachments/assets/1a7561c0-c0f2-48b4-8485-ea68ca562019" />
+
+<img width="1134" height="782" alt="image" src="https://github.com/user-attachments/assets/4593799b-222b-46d2-ba43-e7962f93cc02" />
+
+<img width="798" height="606" alt="image" src="https://github.com/user-attachments/assets/ea7b1582-ff23-4429-bd3c-7a7c06e49d3e" />
+
+
+
+
+
+
+
+
+
+
+
+**15. Author Information**
 
 Name: KASTHURI.T
 Course: BCA
 Project Title: Student Performance Analysis
 Year: 2026
 
-**17. Conclusion**
+**16. Conclusion**
 
 This project demonstrates the effective use of data science and machine learning techniques in analyzing student performance. 
 By transforming raw data into meaningful insights, it provides valuable support for improving academic outcomes.
 
 The predictive model developed in this project can assist educators in identifying trends and making informed decisions, ultimately 
 contributing to better educational systems.
+
+
+
+
